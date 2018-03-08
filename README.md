@@ -974,6 +974,7 @@ The multiple assignment trick can also be used to swap the values in two variabl
 | spam -= 1 | spam = spam - 1 |
 | spam *= 1 | spam = spam * 1 |
 | spam /= 1 | spam = spam / 1 |
+| spam //= 1 | spam = spam // 1 |
 | spam %= 1 | spam = spam % 1 |
 
 Examples:
